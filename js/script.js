@@ -11,7 +11,7 @@ const courses = [
     "Java Fullstack + AI",
     "React Developer",
     "Linux Admin",
-    "SAP ARIBA, FICO, ABAP",
+    "ServiceNow",
     "Terraform + Azure"
 ];
 
